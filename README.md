@@ -34,29 +34,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎮 Unity 2D Game
-A simple 2D platformer built with **Unity & C#**.  
-[🔗 Repository](#)  
-![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-
----
-
-### 🌐 Web App with Firebase
-Full-stack web application using **Next.js + Firebase** for authentication and database.  
-[🔗 Repository](#)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
----
-
-### 📊 SQL Database Project
-Designed and implemented a **relational database** with queries and ERD diagrams.  
-[🔗 Repository](#)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M3ciN&theme=tokyonight" />
@@ -78,9 +55,8 @@ Designed and implemented a **relational database** with queries and ERD diagrams
 ---
 
 ## 📫 Contact
-- 📧 Email: **yourmail@example.com**  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 🖥️ Portfolio: [yourwebsite.com](#)  
+- 📧 Email: **marcin.wrobel999@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/mwrobel01](#)  
 
 ---
 
